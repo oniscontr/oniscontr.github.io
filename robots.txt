@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oniscontr.github.io/sitemap.html.gz
+Sitemap: https://oniscontr.github.io/app/sitemap.html.gz
+Sitemap: https://oniscontr.github.io/assets/sitemap.html.gz
+Sitemap: https://oniscontr.github.io/css/sitemap.html.gz
+Sitemap: https://oniscontr.github.io/includes/sitemap.html.gz
+Sitemap: https://oniscontr.github.io/item/sitemap.html.gz
+Sitemap: https://oniscontr.github.io/src/sitemap.html.gz
